@@ -1,4 +1,8 @@
-### Hi there 👋
+### Halo Semua 👋
+
+Perkenalkan nama saya **Widya Amelia**.  
+Saya seorang **mahasiswa semester 6 jurusan statistika** di Universitas Brawijaya.  
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [LinkedIn](https://linkedin.com/in/widya-amelia-putri) ku ya.
 
 <!--
 **widyamelia26/widyamelia26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
